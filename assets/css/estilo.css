@@ -69,10 +69,11 @@
 .contenedor {
     background-color: white;
     padding: 10px;
+    padding-bottom: 0px;
     width: 90%;
     margin-top: 0px;
     margin-right: auto;
-    margin-bottom: 0px;
+    margin-bottom: 0px ;
     margin-left: auto;
     border-radius: 5px;
 }
@@ -89,7 +90,7 @@
 }
 
 .FotoPrincipall {
-    width: 100%;
+    width: s%;
     ;
 }
 
